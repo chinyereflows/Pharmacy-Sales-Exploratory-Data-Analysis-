@@ -1,5 +1,6 @@
 # Pharmacy-Sales-Exploratory-Data-Analysis-
 End-to-end Excel data analysis project analyzing annual pharmacy sales using Power Query, Power Pivot, and DAX. The project focuses on data cleaning, modeling, KPI analysis, and interactive dashboard reporting to generate actionable business insights.
+
 ## Project Overview
 This project is an end-to-end data analysis of annual pharmacy sales data aimed at uncovering business insights, sales trends, and customer behavior. Using Microsoft Excel as the primary analytics tool, I performed data cleaning, data modeling, exploratory data analysis (EDA), and dashboard reporting to support data-driven decision-making.
 ## Objectives
